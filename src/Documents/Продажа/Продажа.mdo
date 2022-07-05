@@ -26,25 +26,6 @@
   <defaultObjectForm>Document.Продажа.Form.ФормаДокумента</defaultObjectForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
-  <attributes uuid="3e5f9d29-992c-4ca1-81a8-433e0d7b5cbc">
-    <name>СуммаДокумента</name>
-    <synonym>
-      <key>ru</key>
-      <value>Сумма документа</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>15</precision>
-        <scale>2</scale>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
   <forms uuid="9eb844c7-f7f7-4401-a7be-39d9a0ba28d9">
     <name>ФормаДокумента</name>
     <synonym>
